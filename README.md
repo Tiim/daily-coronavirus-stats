@@ -1,6 +1,13 @@
 # Daily Coronavirus Statistics
 
-Source: [ecdc.europa.eu](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
+Source: [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
+
+This is a daily updated Repository of worldwide corona case statistics from ecdc.europa.eu. Every day the latest
+official Excel file is downloaded and processed into an easy to use json format. See below where to find the data.
+
+This repository is not an official source!
+
+For a simple visualisation of the data see here: [Visualisation](https://tiim.ch/sars-cov-2-demo/)
 
 ## Data
 
